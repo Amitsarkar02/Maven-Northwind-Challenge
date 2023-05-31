@@ -2,7 +2,8 @@
 
 Northwind Trader is a global import and export company that specializes in supplying gourmet food products to restaurants, cafes, and specialty food retailers around the world.   It supplies its food product to 21 different countries having 91 different customers.  It can process 77 various products with the help of 9 different employees.
 
-northwind dashboard  
+##Northwind dashboard## ![Dashboard 2 (1)](https://github.com/Amitsarkar02/Maven-Northwind-Challenge/assets/104220565/e59a5c47-8a26-4b9f-9a31-90404e6fa0a7)
+
 ## key Findings
 
 ✅ Total orders placed: 830 
